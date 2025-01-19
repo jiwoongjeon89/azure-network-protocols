@@ -20,19 +20,30 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Creating virtual machines on Azure
-- Step 2: 
-- Step 3
-- Step 4
+- Step 1: Create virtual machines on Azure
+- Step 2: Observe various network traffics
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In this lab, I will be observing various network traffic and experiment with the network security groups using Azure. 
+</p>
+<img src=<img width="2560" alt="1" src="https://github.com/user-attachments/assets/b0832940-ebc8-457d-9a35-5e8f306c77e4" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You first need to create a resource group on Azure for the virtual network and the virtual machines to live in. 
 </p>
+<img src=<img width="2560" alt="2" src="https://github.com/user-attachments/assets/f23eea2e-7b18-4935-b860-5322bdaf1c9e" />
+</p>
+<p>
+I will create two virtual machines. First, I will create the Windows 10 virtual machine. 
+</p>
+<img src=<img width="2560" alt="3" src="https://github.com/user-attachments/assets/1ba4afdf-c7ba-47df-b437-0d18155c6e6f" />
+</p>
+<p>
+Then, I will create a Linux virtual machine. The important thing for these virtual machines is that the virtual network needs to be the same so they can talk to each other.  
+</p>
+
 <br />
 
 <p>
