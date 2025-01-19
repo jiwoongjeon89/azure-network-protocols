@@ -46,7 +46,7 @@ Then, I will create a Linux virtual machine. The important thing for these virtu
 </p>
 <p>
 
-  
+<br />
 </p>
 <h3>Observing ICMP traffic</h3>
 First we will be observing the ICMP traffic. I will try to ping the Linux virtual machine from the Windows virtual machine.  
