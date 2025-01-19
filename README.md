@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-Creating the Virtual Machines on Azure
+<h3>Creating the Virtual Machines on Azure</h3>
 <p>
 In this lab, I will be observing various network traffic and experiment with the network security groups using Azure. 
 </p>
