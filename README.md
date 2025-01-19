@@ -58,4 +58,6 @@ I am using a MacBook so I downloaded the Windows App to access the virtual machi
   I have logged into the Windows virtual machine and I’ll be downloading Wireshark so we can track the different network traffics easily.  
 </p>
 <img src="https://imgur.com/V4RJdqJ.png"/>
-
+I opened up Wireshark and filtered it so we can only see the ICMP traffic.  
+<img src="https://imgur.com/uTp75y8.png"/>
+I opened PowerShell and pinged the Linux virtual machine using the command ‘ping 10.0.0.5’. 
