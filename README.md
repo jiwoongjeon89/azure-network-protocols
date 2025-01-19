@@ -43,21 +43,19 @@ I will create two virtual machines. First, I will create the Windows 10 virtual 
 <p>
 Then, I will create a Linux virtual machine. The important thing for these virtual machines is that the virtual network needs to be the same so they can talk to each other.  
 </p>
+</p>
+<h3>Observing ICMP traffic</h3>
+First we will be observing the ICMP traffic. I will try to ping the Linux virtual machine from the Windows virtual machine.  
+<img width="1282" alt="4" src="https://github.com/user-attachments/assets/57a8eb13-aa70-4980-982f-e90ba1c840ae" />
 
-<br />
+</p>
+<p>
+I am using a MacBook so I downloaded the Windows App to access the virtual machines.  
+</p>
 
+<img width="2560" alt="6" src="https://github.com/user-attachments/assets/991094c4-f015-4013-8fb2-06c638eec752" />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  I have logged into the Windows virtual machine and I’ll be downloading Wireshark so we can track the different network traffics easily.  
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://imgur.com/V4RJdqJ.png"/>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
