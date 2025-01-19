@@ -28,8 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 In this lab, I will be observing various network traffic and experiment with the network security groups using Azure. 
 </p>
-<img src=<img width="2560" alt="1" src="https://github.com/user-attachments/assets/b0832940-ebc8-457d-9a35-5e8f306c77e4" />
-</p>
+<img width="2560" alt="1" src="https://github.com/user-attachments/assets/ca5f46db-3f95-4127-9611-0d77a3e3bf52" />
 <p>
 You first need to create a resource group on Azure for the virtual network and the virtual machines to live in. 
 </p>
